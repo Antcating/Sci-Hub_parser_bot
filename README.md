@@ -1,4 +1,4 @@
-# # Sci-Hub parser bot
+# Sci-Hub parser bot
 Sci-Hub parser bot for Telegram, using PyTelegramBotApi
 
 This bot can be used to getting documents from Sci-HUB using *DOI* for Telegram. 
