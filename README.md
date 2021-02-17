@@ -6,7 +6,7 @@ This bot can be used to getting documents from Sci-HUB using *DOI* for Telegram.
 ### Installation and run
 Using console:
 ```
-git clone https://github.com/Antcating/polyalphabetic_cipher_bot.git
+git clone https://github.com/Antcating/Sci-Hub_parser_bot.git
 cd Sci-Hub_parser_bot
 python3 main.py
 ```
